@@ -1,4 +1,4 @@
-import ItemDetail from "./itemDetail";
+import ItemDetail from './itemDetail.jsx';
 import { useParams } from "react-router-dom";
 import { useEffect, useState, useContext } from "react";
 import ItemsContext from '../../context/ItemsContext';
